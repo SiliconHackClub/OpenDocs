@@ -10,31 +10,29 @@ Our mission is to create a **comprehensive, beginner-friendly, and community-dri
 Whether you are learning your first programming language, exploring DevOps, or diving into AI/ML, this repository is here to help. All content is written in **Markdown (.md)** and published on our [website](https://siliconhackclub.xyz).
 
 ---
----
 ## 📂 Structure
 
 The documentation is organized into categories and subtopics. Each subtopic is a dedicated Markdown file.  
 
-Example:
+```
 /docs
 ├── getting-started
-│ ├── intro-to-git.md
-│ ├── setting-up-vscode.md
-│ └── hello-world.md
+│   ├── intro-to-git.md
+│   ├── setting-up-vscode.md
+│   └── hello-world.md
 ├── web-development
-│ ├── html-basics.md
-│ ├── css-basics.md
-│ └── react-intro.md
+│   ├── html-basics.md
+│   ├── css-basics.md
+│   └── react-intro.md
 ├── devops
-│ ├── docker-intro.md
-│ └── kubernetes-basics.md
+│   ├── docker-intro.md
+│   └── kubernetes-basics.md
 ├── ai-ml
-│ ├── ml-intro.md
-│ └── neural-networks.md
+│   ├── ml-intro.md
+│   └── neural-networks.md
 
----
+```
 
----
 
 ## 🚀 How to Use
 
