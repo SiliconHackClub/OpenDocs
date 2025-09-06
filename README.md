@@ -10,7 +10,7 @@ Our mission is to create a **comprehensive, beginner-friendly, and community-dri
 Whether you are learning your first programming language, exploring DevOps, or diving into AI/ML, this repository is here to help. All content is written in **Markdown (.md)** and published on our [website](https://siliconhackclub.xyz).
 
 ---
-
+---
 ## 📂 Structure
 
 The documentation is organized into categories and subtopics. Each subtopic is a dedicated Markdown file.  
@@ -32,8 +32,7 @@ Example:
 │ ├── ml-intro.md
 │ └── neural-networks.md
 
-yaml
-Copy code
+---
 
 ---
 
